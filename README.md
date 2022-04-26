@@ -1,7 +1,5 @@
 # Automation-of-Waste-Management
 
-https://www.tinkercad.com/things/kFP6Vh7UBsf-bot/editel?sharecode=BUWzsf4jdlkAXT4JEDsjcNhcUZGcta0wBuo6-oe8e2E
-
 ## Project Description
 An IoT project aimed at improving the waste management system while simultaneously reducing human labor involved. Implemented using Arduino uno and other components such as ultrasonic sensors, servo motors, dc motors and a L293D motor driver.   
 
